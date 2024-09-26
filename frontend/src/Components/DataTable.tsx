@@ -21,9 +21,6 @@ const DataTable = () => {
 
   return (
     <>
-      <h1 className="text-balck text-3xl flex items-center justify-center">
-        Data
-      </h1>
       <input
         type="text"
         placeholder="Filter by name"
