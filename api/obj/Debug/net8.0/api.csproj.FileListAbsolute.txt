@@ -140,3 +140,4 @@ D:\ContactManagerProject\Contact-Manager\api\obj\Debug\net8.0\refint\api.dll
 D:\ContactManagerProject\Contact-Manager\api\obj\Debug\net8.0\api.pdb
 D:\ContactManagerProject\Contact-Manager\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\ContactManagerProject\Contact-Manager\api\obj\Debug\net8.0\ref\api.dll
+D:\ContactManagerProject\Contact-Manager\api\obj\Debug\net8.0\api.sourcelink.json
